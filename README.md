@@ -12,7 +12,6 @@ SGP a.k.a Smart Greenhouse Pesticide is a IoT project about Controlling and Moni
 - J3D119119 - Safrizal Abdul Latief
 
 ## Component Used
-
 | Name                            | Functionality | Qty   |
 | ------------------------------- | ------------- | ----- |
 | NodeMCu Ai-Thinker ESP32-S      | Board         | 1 pcs |
@@ -26,6 +25,9 @@ SGP a.k.a Smart Greenhouse Pesticide is a IoT project about Controlling and Moni
 | Molex Mini JST (3 pin)          | Connector     | 4 pcs |
 | Printed 3D Case                 | Case          | 1 pcs |
 | Printed PCB Board               | PCB           | 1 pcs |
+
+## Wiring
+Soon Will Update
 
 ## Development Environment
 This Project is develop with MicroPython (Firmware version: 1.17) as a Programming Language, Thonny as IDE, Firebase as Database and ReactJS/NextJS as web framework
