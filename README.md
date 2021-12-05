@@ -2,13 +2,13 @@
 SGP a.k.a Smart Greenhouse Pesticide is a IoT project about Controlling and Monitoring Greenhouse. In this project, user can controlling the watering time also the pomp duration; user can monitoring humidity and temperature of greenhouse, soil moisture, and height of pesticide. This is a Final Project of TEK304 - Sistem Tertanam (Embedded System).
 
 ### Team
-- J3D119039 - Dwi Yulinar
-- J3D119101 - Nur Tri Wahyudiningsih
-- J3D119052 - Glenaldin Halim
-- J3D119110 - Ramadhan Kukuh Prakoso
 - J3D119016 - Arief Kurnia Ananda
+- J3D119039 - Dwi Yulinar
 - J3D119021 - Bagus Raspati
+- J3D119052 - Glenaldin Halim
 - J3D119072 - Meihair Alfianzen
+- J3D119101 - Nur Tri Wahyudiningsih
+- J3D119110 - Ramadhan Kukuh Prakoso
 - J3D119119 - Safrizal Abdul Latief
 
 ## Component Used
