@@ -26,6 +26,13 @@ SGP a.k.a Smart Greenhouse Pesticide is a IoT project about Controlling and Moni
 | Printed 3D Case                 | Case          | 1 pcs |
 | Printed PCB Board               | PCB           | 1 pcs |
 
+## Library / Package Used
+| Name        | Source                                                                         |
+| ----------- | ------------------------------------------------------------------------------ |
+| RTC DS3231  | [Github](https://github.com/peterhinch/micropython-samples/tree/master/DS3231) |
+| uFirebase   | [Github](https://github.com/ckoever/micropython-firebase-realtime-database)    |
+| WifiManager | [Github](https://github.com/tayfunulu/WiFiManager)                             |
+
 ## Wiring
 Soon Will Update
 
