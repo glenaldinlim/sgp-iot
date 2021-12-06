@@ -30,7 +30,7 @@ SGP a.k.a Smart Greenhouse Pesticide is a IoT project about Controlling and Moni
 Soon Will Update
 
 ## Development Environment
-This Project is develop with MicroPython (Firmware version: 1.17) as a Programming Language, Thonny as IDE, Firebase as Database and ReactJS/NextJS as web framework
+This Project is develop with MicroPython (Firmware version: 1.17) as a Programming Language, Thonny as IDE, Firebase as Database and ReactJS/NextJS as web framework. You can visit the web repo's at [SGP IOT - Web](https://github.com/glenaldinlim/sgp-iot-web)
 
 ## How to Use
 1. Install CH340 Driver and Thonny IDE in your PC
